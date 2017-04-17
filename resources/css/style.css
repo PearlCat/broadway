@@ -46,9 +46,32 @@ p {
 	font-size: 14px;
 }
 
+.image {
+	padding:0;
+	margin: 35px 0 0 0;
+}
+
+.text {
+	padding: 0;
+	line-height: 20px;
+	margin: 5px 0 20px 0;
+}
+.header a {
+	color: white;
+	font-size: 18px;
+	display: block;
+	padding: 8px;
+}
+
 footer{
 	text-align: left;
 	font-size: 11px;
 	color: white;
 	background-color: dimgray;
+}
+
+footer a {
+	color: white;
+	padding: 0 3px 0 3px;
+	font-size: 18px;
 }

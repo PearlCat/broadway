@@ -6,6 +6,17 @@ h1, h2, h3, a, p{
 	font-family: Helvetica;
 }
 
+.header{
+	height: 297px;
+	background:url("the-flatiron-building.png");
+	color: white;
+}
+
+.band {
+	background:url("the-flatiron-building.png");
+	color: white;
+}
+
 h1{
 	position: relative;
 	margin: 0;
